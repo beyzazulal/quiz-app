@@ -1,0 +1,15 @@
+.dropdown{
+    
+}
+.dropdown select{
+    width: 350px;
+    height: 50px;
+    border: 10px solid lightgray;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    cursor: pointer;
+
+}
